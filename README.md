@@ -11,3 +11,8 @@ The large paired lower back muscles (erector spinae) may be strained
 The bones, ligaments or joints may be damaged
 
 An intervertebral disc may be degenerating
+
+
+# Variables Used
+
+pelvic_incidence,pelvic_tilt,lumbar_lordosis_angle,sacral_slope,pelvic_radius,degree_spondylolisthesis,pelvic_slope,Direct_tilt,thoracic_slope,cervical_tilt ,sacrum_angle,scoliosis_slope,Outcome
